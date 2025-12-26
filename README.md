@@ -151,10 +151,15 @@ User Action → Controller → UseCase → Repository → DataSource → API/Sto
 
 ## 👨‍💻 Developer
 
-**Naveen**  
+**Naveen Kumar Vadde**  
 Frontend & Mobile Developer  
-Hyderabad, India  
-4+ years experience in Flutter & Angular
+📍 Hyderabad, India  
+💼 4+ years of experience in **Flutter & Angular**
+
+🌐 Portfolio: https://connectwithnaveen.netlify.app  
+📧 Email: letsconnectwithnaveen@gmail.com  
+🔗 GitHub: https://github.com/bewithnaveen  
+🔗 LinkedIn: https://linkedin.com/in/letsconnectwithnaveen
 
 ## 📄 License
 
