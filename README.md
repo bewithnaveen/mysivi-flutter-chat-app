@@ -67,8 +67,8 @@ Dart SDK: 3.0+
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/mysivi.git
-cd mysivi
+git clone https://github.com/bewithnaveen/mysivi-flutter-chat-app.git
+cd mysivi-flutter-chat-app
 ```
 
 2. Install dependencies
